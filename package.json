@@ -1,6 +1,6 @@
 {
 	"name": "@prama13/n8n-nodes-pexels",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "n8n node for Pexels API - Search and download free stock photos and videos",
 	"license": "MIT",
 	"homepage": "",
@@ -33,7 +33,7 @@
 			"dist/credentials/PexelsApi.credentials.js"
 		],
 		"nodes": [
-			"dist/nodes/Example/Example.node.js"
+			"dist/nodes/Pexels/Pexels.node.js"
 		]
 	},
 	"devDependencies": {
