@@ -1,6 +1,6 @@
 {
 	"name": "@prama13/n8n-nodes-pexels",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "n8n node for Pexels API - Search and download free stock photos and videos",
 	"license": "MIT",
 	"homepage": "",
@@ -21,8 +21,7 @@
 		"dev": "n8n-node dev",
 		"lint": "n8n-node lint",
 		"lint:fix": "n8n-node lint --fix",
-		"release": "n8n-node release",
-		"prepublishOnly": "n8n-node prerelease"
+		"prepublishOnly": "npm run build && npm run lint"
 	},
 	"files": [
 		"dist"
