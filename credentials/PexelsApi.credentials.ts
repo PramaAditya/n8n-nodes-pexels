@@ -1,5 +1,6 @@
 import type {
 	IAuthenticateGeneric,
+	Icon,
 	ICredentialTestRequest,
 	ICredentialType,
 	INodeProperties,
@@ -9,6 +10,8 @@ export class PexelsApi implements ICredentialType {
 	name = 'pexelsApi';
 
 	displayName = 'Pexels API';
+
+	icon: Icon = { light: 'file:../icons/pexels.svg', dark: 'file:../icons/pexels.dark.svg' };
 
 	documentationUrl = 'https://www.pexels.com/api/documentation/';
 
