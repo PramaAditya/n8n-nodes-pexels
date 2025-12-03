@@ -1,6 +1,6 @@
 {
 	"name": "@prama13/n8n-nodes-pexels",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "n8n node for Pexels API - Search and download free stock photos and videos",
 	"license": "MIT",
 	"homepage": "",
