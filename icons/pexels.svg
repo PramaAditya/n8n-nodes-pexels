@@ -1,0 +1,8 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="30" fill="#05A081"/>
+  
+  <!-- Camera/Photo icon -->
+  <path d="M42 20H38L36 17H24L22 20H18C16.9 20 16 20.9 16 22V40C16 41.1 16.9 42 18 42H42C43.1 42 44 41.1 44 40V22C44 20.9 43.1 20 42 20ZM30 38C26.13 38 23 34.87 23 31C23 27.13 26.13 24 30 24C33.87 24 37 27.13 37 31C37 34.87 33.87 38 30 38Z" fill="white"/>
+  <circle cx="30" cy="31" r="5" fill="white"/>
+</svg>
